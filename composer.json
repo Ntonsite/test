@@ -1,0 +1,38 @@
+{
+    "name": "care-md/care-md",
+    "description": "A Composer file to load all the required php scripts",
+    "keywords": ["php", "careMd"],
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [{
+        "name": "Rayton Kiwelu"
+    }],
+    "require": {
+        "php": ">=7.1",
+        "ext-tokenizer": "*",
+        "propel/propel": "~2.0@dev",
+        "monolog/monolog": ">=1.1.0",
+        "pimple/pimple": "~3.0",
+        "nikic/php-parser": "~1.4",
+        "bcncommerce/json-stream": "0.3.0",
+        "nesbot/carbon": "*",
+        "concerto/directory-monitor": "0.*",
+        "phpoffice/phpspreadsheet": "^1.12"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "bcncommerce/stream-wrapper": "dev-master",
+        "symfony/phpunit-bridge": "^3.2"
+    },
+
+    "autoload": {
+        "psr-0": { "Bcn\\Component\\Json\\": "" },
+        "classmap": ["propel/CareMd/CareMd/"],
+        "psr-4": { "": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4-dev"
+        }
+    }
+}

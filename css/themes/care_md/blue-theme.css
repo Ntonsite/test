@@ -1,0 +1,13 @@
+.backgroundOne{
+  background-color: #2A58AD;
+}
+
+.colorOne{
+  color: #BEC8E0;
+  font-weight: 600; 
+}
+
+.sidebar[data-color="blue"] li.active > a {
+    background-color: blue;
+    color: white;
+}

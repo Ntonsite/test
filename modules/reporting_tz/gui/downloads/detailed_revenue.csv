@@ -1,0 +1,73 @@
+FROM:,"01.Nov.2020 00:00:00",TO:,"30.Nov.2020 23:59:59","ALL CUSTOMERS"
+"Billed Date","Admission date",Patient/ID,"Birth Date","File NR",Membership_NR,Form_NR,,Description,Category,"No.Of Items",Price,BankRef,Deposit
+07.Nov.2020,07.Nov.2020,"Bakari Juma",01.Jan.1987,27910,,,,"Cons_General Practitioner_new",SERVICE,1,12000,11630,Null
+" "," "," "," "," "," "," "," "," "," "," "," "," "
+"PATIENTS WITH DEPOSITS"
+07.Nov.2020,07.Nov.2020,"bakari juma",01.Jan.1987,27910,"Bill No: 66629",,,DEPOSIT,DEPOSIT,1,Null,80000
+"PATIENTS WITH DEPOSIT BUT NO FINAL BILL YET"
+"PATIENTS WITH TOPUP"
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Sodium Chloride + Dextrose{DNS} infusion{B} 500ml",DRUG,4,8000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Syring 10cc",SUPPLIES,2,600
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Metronidazole{Metrogyl}{A} 200mg Tab",DRUG,30,1500
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Cephalexin{AUROCEF}{C} 250mg Cap",DRUG,30,6000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"BED GENERAL",SERVICE,1,20000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Metronidazole{Metrogyl/ABAGYL}{B} 500mg/100ml IV Injection",DRUG,1,1500
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Ondansetron{S} 8mg/4ml IV Injection",DRUG,1,2500
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Ceftriaxone{TRIXONE}{A} 1000mg IV/IM Injection",DRUG,2,5000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Syring 5cc",SUPPLIES,1,200
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"I.V Giving Set{Neo Vac}",SUPPLIES,1,1000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Cannula 18G{Green}",SUPPLIES,1,1000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Ceftriaxone{TRIXONE}{A} 1000mg IV/IM Injection",DRUG,2,5000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Syring 10cc",SUPPLIES,2,600
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Cons_General Practitioner_new",SERVICE,1,12000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"Full Blood Picture (FBP) + Peripheral Smear","LAB TEST",1,10000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,PDW,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Neu%,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,PCT,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Lym%,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,P-LCR,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Mon%,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,P-LCC,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Eos%,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Bas%,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Neu#,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Lym#,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,LEU,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Mon#,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,NIT,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Eos#,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,URO,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,Bas#,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,PRO,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,RBC,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,pH,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,HGB,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,BLD,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,HCT,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,S.G,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,MCV,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,KET,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,MCH,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,BIL,"LAB TEST",1,8000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,MCHC,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,GLU,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,RDW-CV,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,VTC,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,RDW-SD,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,PLT,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,MPV,"LAB TEST",1,0
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A," HB","LAB TEST",1,4000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"BLOOD GROUPING","LAB TEST",1,10000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A," STOOL ANALYSIS","LAB TEST",1,5000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,MRDT,"LAB TEST",1,5000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"USS - Abdomen and Pelvis  each",RADIOLOGY,1,30000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"X-Ray abdomen - Supine/Erect",RADIOLOGY,1,30000
+08.Nov.2020,07.Nov.2020,"juma bakari",01.Jan.1987,27910,,,N/A,"TOTAL TOPUP",,,,"86,900"
+Lab,Drugs,Radio,Dental,Eye,Min.Proc,Major.proc,"Consult and services",Supplies.,"Laboratory Supplies",Other,"TOTAL WITH DEPOSIT ITEMS"
+"42,000","29,500","60,000",0,0,0,0,"44,000","3,400",0,0,"178,900"
+"GRAND TOTAL:","178,900"
+"MAIN SUMMARY"
+"TOTAL DEPOSIT:","80,000"
+"TOTAL TOPUP:","86,900"
+"TOTAL REFUND:",0
+"NET DEPOSITS:","166,900"

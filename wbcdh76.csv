@@ -1,0 +1,3 @@
+Patient Type,Med Rec. No.,First Name,Last Name,Gender,Age,Age Unit,Birthday,Ref. Group,Charge Type,Department,Area,Bed No.,Sample Type,Sampling Time,Delivery Time,Submitter,Operator,Approver,Report Time,Diagnosis,Remarks,Sample ID,Run Time,Mode,WBC,Neu%,Lym%,Mon%,Eos%,Bas%,Neu#,Lym#,Mon#,Eos#,Bas#,RBC,HGB,HCT,MCV,MCH,MCHC,RDW-CV,RDW-SD,PLT,MPV,PDW,PCT,P-LCR,P-LCC,WBC Flag,RBC Flag,PLT Flag,Graphic file Path,
+,,sample1,,Male,22,Year,	,Man,,,,,Venous blood,09/25/2019 16:06	,	,,admin,,09/25/2019 16:07:32	,,,12300	,09/25/2019 16:06:28	,Auto-AWB-CBC+DIFF,11.57,25.0,62.7,9.8,2.1,0.4,2.89,7.26,1.13,0.24,0.05,6.27,10.1,32.9,52.5,16.1,30.6,28.5,53.4,511,9.6,17.2,0.489,27.0,138,Lymphocytosis,Microcytosis,,C:/Users/Dymind/Desktop/SampleExport_graphic,
+
