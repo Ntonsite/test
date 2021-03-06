@@ -50,7 +50,7 @@ $userId = $_SESSION['sess_login_userid'];
 
 $user = CareUsersQuery::create()->filterByLoginId($userId)->findOne()->toArray();
 $roleId = $user['RoleId'];
-// $roleId = 13;
+
 
 $userRole = CareUserRolesQuery::create()->filterByRoleId($roleId)->findOne()->toArray();
 $themeName = $user['ThemeName'];
